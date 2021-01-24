@@ -16,7 +16,7 @@
 #nav-home {
     display: flex;
     justify-content: flex-start;
-    margin-left: auto;
+    margin-left: 5%;
 }
 
 .nav-link {
