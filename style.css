@@ -73,7 +73,26 @@ section, main {
     background: aquamarine;
 }
 
+.container {
+    display: flex;
+    border: solid 1px yellow;
+}
+
+.left {
+    border: solid 1px red;
+
+}
+
+.right {
+    border: solid 1px green;
+
+}
+
 #img-phone {
+    max-width: 100%;
+}
+
+#video-flat {
     max-width: 100%;
 }
 
